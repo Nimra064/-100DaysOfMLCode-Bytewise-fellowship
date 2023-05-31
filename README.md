@@ -16,6 +16,6 @@ Day-13: Learned the Concept of Machine Learning, Type of Machine Learning and Ma
 Day-14: Completed the videos of week 1 of Supervised Machine Learning Course on Courera. Course Link : https://www.coursera.org/learn/machine-learning <br>
 Day-15: Completed the videos of week 2 of Supervised Machine Learning Course on Courera <br>
 Day-16: Completed the videos of week 3 of Supervised Machine Learning Course on Courera <br>
-Day-17:  Solved the Excercises of Week 1 , Week 2 & Week 3 of Supervised Machine Learning Course on Courera.Solve solution here: <br>
-Day-18: Solved the week 1 , week 2 & week 3 Final Projects of Supervised Machine Learning Course on Courera.Solve Solution here:  <br>
+Day-17:  Solved the Excercises of Week 1 , Week 2 & Week 3 of Supervised Machine Learning Course on Courera.Solve solution here:https://github.com/Nimra064/Supervised-Machine-Learning-Course-Solve-Solution-on-Coursera-2023 <br>
+Day-18: Solved the week 1 , week 2 & week 3 Final Projects of Supervised Machine Learning Course on Courera.Solve Solution here:https://github.com/Nimra064/Supervised-Machine-Learning-Course-Solve-Solution-on-Coursera-2023  <br>
 Day-19: Completed the videos lectures of KNN and Clustering. <br>
