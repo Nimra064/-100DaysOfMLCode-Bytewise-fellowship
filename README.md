@@ -24,3 +24,4 @@ Day-21 : Do Practice on NASA: Asteroids Classification dataset, dataset link her
 Day-22 : Complete the 5 tutorials of  introduction  of Deep Learning and Write the Article on the Topic of <b>Deep Class Generative Adversarial Networks(DCGANs)</b> link here : https://medium.com/@nimrashahzadisa064/deep-class-generative-adversarial-networks-dcgans-2b5441d731b
 Tutorials Links Here : https://www.youtube.com/watch?v=7sB052Pz0sQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1&ab_channel=AlexanderAmini <br>
 Day-23 : Complete the tutorials of Deep learning , in which cover the Topic of NN , Backpropagation and CNN.
+Day-24 : Complete the internship Final Project: Detect the Forest Fire from videos by using Yolo Nas, Link here: https://github.com/Nimra064/Forest-Fire-Detection-using-YOLO-Nas
